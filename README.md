@@ -1,6 +1,7 @@
 # 🛒 E-commerce Price Monitor
 
 What this solves
+
 -　Replace manual price checks with automated tracking
 
 -　Keep historical price snapshots for decision-making
