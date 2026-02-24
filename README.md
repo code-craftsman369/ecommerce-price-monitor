@@ -6,9 +6,9 @@ What this solves
 
 -　Keep historical price snapshots for decision-making
 
--　Provide dashboards for trend/surge detection (alerts-ready)
+-　Enable faster pricing reactions through trend and surge detection (alert-ready architecture)
 
-Automated web scraping tool to track and analyze product prices from e-commerce websites with comprehensive trend visualization and analytics.
+Operational price intelligence system designed to support competitive pricing decisions through automated data collection, structured historical storage, and trend analysis dashboards.
 
 ![Price Trends](output/price_trends.png)
 
