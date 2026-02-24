@@ -2,7 +2,9 @@
 
 What this solves
 -　Replace manual price checks with automated tracking
+
 -　Keep historical price snapshots for decision-making
+
 -　Provide dashboards for trend/surge detection (alerts-ready)
 
 Automated web scraping tool to track and analyze product prices from e-commerce websites with comprehensive trend visualization and analytics.
